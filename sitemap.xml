@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;The%2520Origin%2520Of%2520Everything&apos;%2520by%2520Un%2520je-ne-sais-quoi%2520ou%2520je%2520ne%2520sais%2520quoi</loc>
-		<lastmod>2022-03-13</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;There%2520will%2520be%2520no%2520forgiveness&apos;%2520by%2520Un%2520je-ne-sais-quoi%2520ou%2520je%2520ne%2520sais%2520quoi</loc>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:Physics</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
