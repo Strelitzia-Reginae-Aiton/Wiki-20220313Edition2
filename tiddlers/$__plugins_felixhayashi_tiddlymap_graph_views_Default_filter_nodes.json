@@ -3,6 +3,6 @@
         "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes",
         "text": "",
         "type": "text/vnd.tiddlywiki",
-        "filter": "  "
+        "filter": "   [field:tmap.id[2ba48315-5f6f-420f-9d92-9af84a933df6]] [field:tmap.id[10a808f1-3a0e-4376-a89e-87591ce62fec]]"
     }
 ]
