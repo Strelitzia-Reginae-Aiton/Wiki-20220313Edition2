@@ -24,12 +24,12 @@
 
 #### 例1
 
-![图片2](C:\Users\fohn\Documents\通用markdown文档\相关图片\图片2.png)
+![图片2]()
 
 如图，一艘船在水面上被一根轻绳拉着前进，已知绳子的末端速度为$v_0$，绳与船相连的一端与水平面夹角为$\theta$，求船的运动速度。
 
 解：
-![图片3](C:\Users\fohn\Documents\通用markdown文档\相关图片\图片3.png)
+[[图片3]]
 
 如图，记上方的绳为$AB$，下方的绳为$AC$
 
@@ -55,7 +55,7 @@ $$\therefore v_{ship}=\displaystyle\frac{x_{ship}}{dt}=\displaystyle\frac{v_0}{\
 
 
 
-![图片4](C:\Users\fohn\Documents\通用markdown文档\相关图片\图片4.png)
+[[图片4]]
 
 如图，真空中有两根电阻不计，相距为$l$的金属导轨，有一根质量为$m$的金属棒与电容为$C$的电容将两根金属导轨连接起来，空间中存在与导轨所在平面方向垂直、磁感应强度为$B$的磁场，当拉力$\vec F$向右拉动金属棒时，求棒速度与时间的关系。
 
