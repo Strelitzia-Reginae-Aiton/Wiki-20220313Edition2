@@ -68,6 +68,16 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:http://mathjax-tw5.kantorsite.net</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:http://tw5-texzilla.tiddlyspot.com</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:图片2.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
