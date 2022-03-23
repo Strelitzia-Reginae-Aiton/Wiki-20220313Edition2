@@ -24,12 +24,12 @@
 
 #### 例1
 
-
+![picture2](http://10.129.3.107:5212/#picture2.png:picture2.png%20%5B%5BThat's%20all%20I%20have%20learned%20in%20senior%20high%20school%5D%5D)
 
 如图，一艘船在水面上被一根轻绳拉着前进，已知绳子的末端速度为$v_0$，绳与船相连的一端与水平面夹角为$\theta$，求船的运动速度。
 
 解：
-[[图片3]]
+![图片3](C:\Users\fohn\Documents\通用markdown文档\相关图片\图片3.png)
 
 如图，记上方的绳为$AB$，下方的绳为$AC$
 
@@ -55,7 +55,7 @@ $$\therefore v_{ship}=\displaystyle\frac{x_{ship}}{dt}=\displaystyle\frac{v_0}{\
 
 
 
-[[图片4]]
+![图片4](C:\Users\fohn\Documents\通用markdown文档\相关图片\图片4.png)
 
 如图，真空中有两根电阻不计，相距为$l$的金属导轨，有一根质量为$m$的金属棒与电容为$C$的电容将两根金属导轨连接起来，空间中存在与导轨所在平面方向垂直、磁感应强度为$B$的磁场，当拉力$\vec F$向右拉动金属棒时，求棒速度与时间的关系。
 
@@ -530,7 +530,7 @@ $$\therefore
 \end{aligned}
 \right.$$
 $$\because 2\dot r\dot\theta+r\ddot\theta=0$$
-$$\therefore \int 2r\dot r\dot\theta+r^2\ddot\theta=r^2\dot\theta+C$$
+$$\therefore \int (2r\dot r\dot\theta+r^2\ddot\theta)\mathrm{d}t=r^2\dot\theta+C$$
 $$\text{令}r^2\dot\theta=h$$
 $$\therefore \dot\theta=\displaystyle\frac{h}{r^2}$$
 $$\text{令}u=\displaystyle\frac{1}{r}$$
@@ -540,11 +540,15 @@ $$\therefore -h^2u^2\displaystyle\frac{\mathrm{d}^2u}{\mathrm{d}\theta^2}+u=-\di
 $$\\$$
 
 根据开普勒第二定律，有$\dot A=C$
+
 在极坐标条件下，有$\dot A=\displaystyle\frac{r^2\dot\theta}{2}$
+
 根据开普勒第三定律，$$r=\displaystyle\frac{p}{1+e\cos\theta}$$
+
 代入Binet公式可得$$F=-\displaystyle\frac{h^2}{p}\displaystyle\frac{m}{r^2}$$
 根据开普勒第三定律，当径矢扫过全部椭圆后，$A=\pi ab$
 $$\because 2\dot A=r^2\dot\theta=h$$
+
 积分可得$2\pi ab=hT$
 $$\therefore \displaystyle\frac{T^2}{a^3}=\displaystyle\frac{4\pi^2b^2}{h^2a}=\displaystyle\frac{4\pi^2p}{h^2}$$
 $$\therefore \displaystyle\frac{h^2}{p}=k^2$$

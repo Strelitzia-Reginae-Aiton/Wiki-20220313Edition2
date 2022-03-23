@@ -24,7 +24,7 @@
 
 #### 例1
 
-![图片2](http://10.129.3.107:5212/#%E5%9B%BE%E7%89%872.png)
+![picture2](http://10.129.3.107:5212/#picture2.png:picture2.png%20%5B%5BThat's%20all%20I%20have%20learned%20in%20senior%20high%20school%5D%5D)
 
 如图，一艘船在水面上被一根轻绳拉着前进，已知绳子的末端速度为$v_0$，绳与船相连的一端与水平面夹角为$\theta$，求船的运动速度。
 
